@@ -1,0 +1,12 @@
+C:\Users\Admin\source\repos\Boi\Boi\bin\Debug\Boi.exe.config
+C:\Users\Admin\source\repos\Boi\Boi\bin\Debug\Boi.exe
+C:\Users\Admin\source\repos\Boi\Boi\bin\Debug\Boi.pdb
+C:\Users\Admin\source\repos\Boi\Boi\obj\Debug\Boi.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Boi\Boi\obj\Debug\Boi.Properties.Resources.resources
+C:\Users\Admin\source\repos\Boi\Boi\obj\Debug\Boi.UserControl1.resources
+C:\Users\Admin\source\repos\Boi\Boi\obj\Debug\Boi.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\Boi\Boi\obj\Debug\Boi.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Boi\Boi\obj\Debug\Boi.exe
+C:\Users\Admin\source\repos\Boi\Boi\obj\Debug\Boi.pdb
+C:\Users\Admin\source\repos\Boi\Boi\obj\Debug\Boi.PussyDestroyer.resources
+C:\Users\Admin\source\repos\Boi\Boi\obj\Debug\Boi.MessageForm.resources
